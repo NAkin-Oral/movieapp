@@ -1,0 +1,9 @@
+.title {
+  cursor: pointer;
+}
+
+.loginTitle {
+  font-size: 4rem;
+  letter-spacing: 0.2rem;
+  font-weight: 400;
+}
